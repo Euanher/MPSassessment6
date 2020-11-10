@@ -1,0 +1,10 @@
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1.UWP\obj\x86\Debug\App1.UWP.csprojAssemblyReference.cache
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1.UWP\obj\x86\Debug\App.g.i.cs
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1.UWP\obj\x86\Debug\App.g.cs
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1.UWP\obj\x86\Debug\App.xaml
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1.UWP\obj\x86\Debug\MainPage.xaml
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1.UWP\obj\x86\Debug\App.xbf
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1.UWP\obj\x86\Debug\MainPage.xbf
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1.UWP\obj\x86\Debug\XamlSaveStateFile.xml

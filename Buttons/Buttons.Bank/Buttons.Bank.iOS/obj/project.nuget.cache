@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XrSLXZKa/Dl7kEzDPE7Z7Yey8Rli4enrIZ9P/tPeCZcQMBrLBbPsDiXMLaiPnM/FZA0I3j8oTab+fdsd4gwnYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Buttons\\Buttons.Bank\\Buttons.Bank.iOS\\Buttons.Bank.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

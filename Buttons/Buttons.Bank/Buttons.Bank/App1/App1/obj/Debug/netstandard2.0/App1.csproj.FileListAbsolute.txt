@@ -1,0 +1,15 @@
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\bin\Debug\netstandard2.0\ref\App1.dll
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\obj\Debug\netstandard2.0\ref\App1.dll
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Xamarin\XamarinMPSass6\.vs\App1\App1\obj\Debug\netstandard2.0\Page1.xaml.g.cs
